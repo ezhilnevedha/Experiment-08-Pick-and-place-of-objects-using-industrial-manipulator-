@@ -81,6 +81,15 @@ and click on the connect icon
 
 3. click on the 
 
+![image](https://github.com/ezhilnevedha/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140057992/9adb5064-9aa1-457e-bad5-d0c36ffee049)
+
+
+![image](https://github.com/ezhilnevedha/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140057992/38ec0d32-221c-4960-bc5e-10e9117f7113)
+
+
+![image](https://github.com/ezhilnevedha/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140057992/663f7fd2-335c-4412-86ec-c8b74dc350db)
+
+![image](https://github.com/ezhilnevedha/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140057992/e82293d8-f355-4486-b12a-9c3aab9b574d)
 
 
 
@@ -93,21 +102,18 @@ and click on the connect icon
 
 
 
+### output video and screen shots of pick and place :
+https://drive.google.com/file/d/1xWcELygBjqacfcCYi4AHN_f--yK8eI3x/view?usp=drivesdk
 
+![image](https://github.com/ezhilnevedha/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140057992/94372e71-b1d3-443e-8a29-c11b2f35075c)
 
-
-
-
-### output video and screen shots of pick and place 
-
-
-
+![image](https://github.com/ezhilnevedha/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/140057992/a5100cd6-fa84-42cd-a219-63edf5bf9ef0)
 
 
 
 
 ### Results: 
-
+Thus the pick and place operation has been successfully executed by industrial robot.
 
 
 
